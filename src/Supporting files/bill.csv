@@ -1,0 +1,10 @@
+Item,Quantity,Price,Item Total,delivery Charges,FinalTotal
+Biryani,2,250,500,100,600
+Burger,2,300,600,100,700
+Samosa,2,50,100,100,200
+Karahi,2,1200,2400,100,2500
+Beef Karahi,1,1400,1400,100,1500
+Pizza large,1,1500,1500,100,1600
+Chicken Roll,2,200,400,100,500
+French Fries,5,150,750,100,850
+Cold Drink,3,100,300,100,400
