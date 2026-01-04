@@ -147,9 +147,9 @@ This program uses Standard C++ libraries and works on Windows.
 ## Author
 
 ## Aneeza Asif
-**Roll no : 25021519-001)**
+**Roll no : 25021519-001**
 
 ## Momna abid 
-**Roll no: 25021519=047**
+**Roll no: 25021519-047**
 
-## Fardous
+
