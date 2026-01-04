@@ -20,7 +20,7 @@ bool login(const string& role)
 		if(username=="Admin" && password=="1234")
 		return true;
 	}
-	else if(role=="Customer")
+	else if(role=="Staff")
 	{
 		if(username=="staff" && password=="abcd")
 		return true;
@@ -28,3 +28,4 @@ bool login(const string& role)
 	
 	return false;
 }
+
