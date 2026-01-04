@@ -16,8 +16,8 @@ int main()
 	int loginChoice;
 	
 	cout<<"Please select your role to login:\n";
-	cout<<"1.Administator\n ";
-	cout<<"1.Staff Member\n ";
+	cout<<"2.Administator\n ";
+	cout<<"2.Staff Member\n ";
 	cout<<"Enter your choice: ";
 	cin>>loginChoice;
 	
@@ -131,3 +131,4 @@ int main()
 	saveCustomers(customers);
 	return 0;
 }
+
