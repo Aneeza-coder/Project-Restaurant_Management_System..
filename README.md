@@ -16,7 +16,7 @@ This is a simple C++ Restaurant Management System that allows you to Add,show,Up
 
 1.Open project in Dev cpp/ Vs code.
 
-2.Compile all ".cpp" files 
+2.Compile all ".cpp".h" files 
 
 3.Run "main.cpp"
 
